@@ -1,2 +1,5 @@
 # hello-world
-Sample Hello World Project
+
+A Sample Hello World Project!
+
+Hi everybody. This is a sample "Hello World" project to experiment with GitHub.
